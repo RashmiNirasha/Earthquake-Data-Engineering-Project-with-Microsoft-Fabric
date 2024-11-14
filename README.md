@@ -17,7 +17,7 @@ Technologies Used: Python, PySpark, Fabric (Data Engineering, Data Factory, Powe
 Before we start with this project , we need a facric capacity of F64 or more to work with all the features in fabric portal. To create a capacity, 
 - Log into Azure Administartor portal
 - Select Microsoft fabric resource 
-- ![Alt text](/Users/rashmigunawardana/Documents/GitHub/dataproject-01/Images/How to make fabric Capacity.png)
+- ![Alt text](/Images/How_to_make_fabric_Capacity.png)
 - Select review and create and wait for deployement. 
 
 ## Getting Started
