@@ -54,3 +54,6 @@ To get started with this project, downalod the notebooks in the repository and f
 `updated`: A timestamp indicating the last update time for the event data.
 
 
+Initial Project credit : https://github.com/malvik01/Earthquake-Data-Engineering-Project-with-Microsoft-Fabric/tree/main 
+
+
