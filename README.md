@@ -1,11 +1,24 @@
 # Earthquake-Data-Engineering-Project-with-Microsoft-Fabric
 
+## Prerequisites
+- Microsoft Azure Account 
+- Microsoft Fabric Account.
+- Familiarity with Python, Spark, and basic data engineering concepts.
+- Basic Power BI skills.
+
 ## Project Overview
 Learn to build an end to end data engineering and analysis pipelineutilising Microsoft Fabric’s Data Factory, Data Engineering, and Power BI experiences. 
 
 Ingesting Earthquake events data from [usgs](https://earthquake.usgs.gov/). 
 
 Technologies Used: Python, PySpark, Fabric (Data Engineering, Data Factory, Power BI)
+
+## Create A fabric capacity in Azure Administrator account 
+Before we start with this project , we need a facric capacity of F64 or more to work with all the features in fabric portal. To create a capacity, 
+- Log into Azure Administartor portal
+- Select Microsoft fabric resource 
+- ![Alt text](/Users/rashmigunawardana/Documents/GitHub/dataproject-01/Images/How to make fabric Capacity.png)
+- Select review and create and wait for deployement. 
 
 ## Getting Started
 To get started with this project, downalod the notebooks in the repository and follow the guidance provided in the YouTube tutorial.
@@ -40,8 +53,4 @@ To get started with this project, downalod the notebooks in the repository and f
 
 `updated`: A timestamp indicating the last update time for the event data.
 
-## Prerequisites
-- Microsoft Fabric Account.
-- Fabric Administrator (or access to individual with Admin account).
-- Familiarity with Python, Spark, and basic data engineering concepts.
-- Basic Power BI skills.
+
