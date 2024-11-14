@@ -7,7 +7,10 @@
 - Basic Power BI skills.
 
 ## Project Overview
-Learn to build an end to end data engineering and analysis pipelineutilising Microsoft Fabric’s Data Factory, Data Engineering, and Power BI experiences. 
+Learn to build an end to end data engineering and analysis pipeline utilising Microsoft Fabric’s 
+-> Data Factory, 
+-> Data Engineering, and 
+-> Power BI experiences. 
 
 Ingesting Earthquake events data from [usgs](https://earthquake.usgs.gov/). 
 
@@ -19,6 +22,8 @@ Before we start with this project , we need a facric capacity of F64 or more to 
 - Select Microsoft fabric resource 
 - ![Alt text](/Images/How_to_make_fabric_Capacity.png)
 - Select review and create and wait for deployement. 
+- ![Alt text](/Images/capacity.png)
+
 
 ## Getting Started
 To get started with this project, downalod the notebooks in the repository and follow the guidance provided in the YouTube tutorial.
@@ -30,28 +35,12 @@ To get started with this project, downalod the notebooks in the repository and f
 
 `Worldwide Earthquake Events API - Gold Layer Processing`: In this final processing stage, the notebook refines the data to create business-ready datasets. These are optimized for high-value insights and are tailored for specific analytical purposes, such as reporting and visualization in tools like Power BI.
 
-## Data Attribute Definitions
-`id`: A string identifier for each data record.
-
-`latitude`: The latitude of the event, stored as a double.
-
-`longitude`: The longitude of the event, also stored as a double.
-
-`elevation`: The elevation at which the event occurred, expressed in meters, stored as a double.
-
-`title`: A string representing the title or name of the event.
-
-`place_description`: A string describing the location of the event.
-
-`sig`: A bigint (large integer) representing the significance score of the event.
-
-`mag`: A double indicating the magnitude of the earthquake.
-
-`magType`: A string describing the type of magnitude scale used.
-
-`time`: A timestamp marking the exact time of the event.
-
-`updated`: A timestamp indicating the last update time for the event data.
+## Execution Results
+- ![Alt text](/Images/power_bi_report01.png)
+- ![Alt text](/Images/power_bi_report02.png)
+- ![Alt text](/Images/data_pipeline.png)
+- ![Alt text](/Images/How_to_make_fabric_Capacity.png)
+- ![Alt text](/Images/Final_Project_Structure.png)
 
 
 Initial Project credit : https://github.com/malvik01/Earthquake-Data-Engineering-Project-with-Microsoft-Fabric/tree/main 
