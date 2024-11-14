@@ -39,7 +39,7 @@ To get started with this project, downalod the notebooks in the repository and f
 - ![Alt text](/Images/power_bi_report01.png)
 - ![Alt text](/Images/power_bi_report02.png)
 - ![Alt text](/Images/data_pipeline.png)
-- ![Alt text](/Images/How_to_make_fabric_Capacity.png)
+- ![Alt text](/Images/power_bi_report_after_pipeline.png)
 - ![Alt text](/Images/Final_Project_Structure.png)
 
 
